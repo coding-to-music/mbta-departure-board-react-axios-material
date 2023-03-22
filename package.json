@@ -1,5 +1,5 @@
 {
-  "name": "departure-board",
+  "name": "mbta-departure-board-react-axios-material",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
